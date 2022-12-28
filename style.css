@@ -43,6 +43,7 @@
 
 .info {
     min-width: 150px;
+    width: 100%;
     margin: auto;
     margin-left: 20px;
 }
@@ -58,7 +59,7 @@
 }
 
 .desc {
-    font-size: 200%;
+    font-size: 175%;
     color: grey;
     margin: auto;
     margin-top: 5px;
