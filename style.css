@@ -49,7 +49,7 @@
 }
 
 .name {
-    font-size: 275%;
+    font-size: 300%;
     margin: auto;
 }
 
@@ -59,7 +59,7 @@
 }
 
 .desc {
-    font-size: 150%;
+    font-size: 200%;
     color: grey;
     margin: auto;
     margin-top: 5px;
@@ -116,7 +116,7 @@ a {
 
 .abt,
 .abt1 {
-    font-size: 150%;
+    font-size: 200%;
     color: grey;
     margin: auto;
     margin-top: 10px;
