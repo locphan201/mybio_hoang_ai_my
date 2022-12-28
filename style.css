@@ -52,8 +52,13 @@
     margin: auto;
 }
 
+.btn-spacing {
+    display: grid;
+    grid-template-columns: 1fr 500px 1fr;
+}
+
 .desc {
-    font-size: 200%;
+    font-size: 150%;
     color: grey;
     margin: auto;
     margin-top: 5px;
@@ -97,11 +102,29 @@ a {
 }
 
 .vid-div {
-    margin-top: 50px;
+    margin-top: 20px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
 }
 
 .video {
     width: 100%;
+}
+
+.abt {
+    font-size: 150%;
+    color: grey;
+    margin: auto;
+    margin-top: 10px;
+    font-family: Arial;
+    font-weight: none;
+}
+
+.wish {
+    font-size: 150%;
+    margin: auto;
+    margin-top: 10px;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-weight: bold;
+    text-align: center;
 }
