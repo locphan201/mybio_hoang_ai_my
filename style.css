@@ -48,7 +48,7 @@
 }
 
 .name {
-    font-size: 225%;
+    font-size: 250%;
     margin: auto;
 }
 
@@ -58,7 +58,7 @@
 }
 
 .desc {
-    font-size: 150%;
+    font-size: 125%;
     color: grey;
     margin: auto;
     margin-top: 5px;
@@ -104,7 +104,7 @@ a {
 .vid-div {
     margin-top: 20px;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 200px 1fr;
 }
 
 .video {
