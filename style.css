@@ -37,7 +37,7 @@
     font-size: 25px;
     font-family: Arial;
     margin-top: 20px;
-    margin-bottom: 0px;
+    margin-bottom: 20px;
     padding: auto;
 }
 
@@ -70,7 +70,8 @@
     height: 100px;
     width: 100%;
     margin: auto;
-    margin-top: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     border-radius: 50px;
     opacity: 0.9;
     transition: opacity 0.15s;
