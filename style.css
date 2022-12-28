@@ -105,10 +105,11 @@ a {
 .vid-div {
     margin-top: 20px;
     display: grid;
-    grid-template-columns: 1fr 200px 1fr;
+    grid-template-columns: 1fr 560px 1fr;
 }
 
 .video {
+    height: 300px;
     width: 100%;
 }
 
