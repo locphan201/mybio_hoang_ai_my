@@ -58,7 +58,7 @@
 }
 
 .desc {
-    font-size: 125%;
+    font-size: 100%;
     color: grey;
     margin: auto;
     margin-top: 5px;
@@ -112,13 +112,18 @@ a {
     width: 100%;
 }
 
-.abt {
+.abt,
+.abt1 {
     font-size: 150%;
     color: grey;
     margin: auto;
     margin-top: 10px;
     font-family: Arial;
     font-weight: none;
+}
+
+.abt1 {
+    text-align: center;
 }
 
 .wish {
