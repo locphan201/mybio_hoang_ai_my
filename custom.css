@@ -1,0 +1,20 @@
+/* Background Color */
+body {
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    background-image: url('Images/bg2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0px -950px;
+}
+
+/* Modify font */
+.name {
+    font-family: Arial;
+    font-weight: bold;
+}
+
+.desc {
+    font-family: Arial;
+    font-weight: none;
+}
