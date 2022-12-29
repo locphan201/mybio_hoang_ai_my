@@ -19,6 +19,7 @@
     padding: 35px;
     background-color: rgb(220, 200, 200);
     border-radius: 50px;
+    opacity: 0.85;
 }
 
 .profile-img {
